@@ -11,3 +11,4 @@ Maksat-bitkoy/Maksat-bitkoy is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 control+shift+m 
+git config —global core.language russian.
